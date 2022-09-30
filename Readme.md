@@ -3,11 +3,11 @@
 I used HTML, CSS and Javascript for this challenge 
 
 These are screenshots and gif of this project
-Desktop view
+-Desktop view
 ![desktop](ssdesktop.png) 
 
-Mobile view 
+-Mobile view 
 ![mobile](ssmobile.png)
 
-Gif
+-Gif
 ![gif](tip-calc-gif.gif)
